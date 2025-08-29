@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me 👋
 
-<!--
-**ccb-a/ccb-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **a third-person stealth-survival game in *Unreal Engine 5**
+- 🌱 I’m currently learning *C++, Python and UE5*
+- 👯 I’m looking to collaborate **on game dev adjacent work**
+- 🤔 I’m looking for help with **C++ learning** *for beginners*
+- 💬 Ask me about anything! 
+- 📫 How to reach me: [email](c@ccb-a.com)
+- 😄 Pronouns: *he/him*
+- ⚡ **Fun fact:** I have a background in 3D Animation and CGI + Film production
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
